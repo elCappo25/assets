@@ -8,7 +8,7 @@ client_urls:
   backend_api: https://api.trustwallet.com 
 
 urls:
-  tw_assets_app: https://assets.trustwalletapp.com
+  tw_assets_app: https://assets.trustwallet⁸app.com
 
 validators_settings:
   root_folder:
